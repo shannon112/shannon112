@@ -1,6 +1,7 @@
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shannon112&label=Profile%20views&color=0e75b6&style=flat" alt="shannon112" /> </p>
 
-<!--
+
 **shannon112/shannon112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
